@@ -1,2 +1,0 @@
-tictactoe/Main.java
- tictactoe.Main
